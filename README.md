@@ -23,3 +23,17 @@ To understand Python installation, execution, variables, input/output, and IDE u
 
 ## Output
 The program prints user name, internship role, and current date.
+
+# Task 2 – Variables, Data Types & Type Conversion
+
+This task demonstrates:
+- Python data types
+- Arithmetic operations
+- Type conversion
+- Error handling
+- Dynamic typing
+
+Tools used:
+- Python
+- VS Code
+
