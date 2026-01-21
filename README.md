@@ -37,3 +37,34 @@ Tools used:
 - Python
 - VS Code
 
+# Grade Calculator - Python
+
+This project demonstrates the use of:
+- Conditional statements
+- Logical operators
+- Input validation
+- Decision-based business logic
+
+## How to Run
+1. Install Python
+2. Run `python grade_calculator.py`
+3. Enter marks when prompted
+
+## Outcome
+Implemented clean and readable decision-based logic using Python.
+
+# Loop Tasks - Python
+
+This project demonstrates:
+- for and while loops
+- break and continue
+- range() usage
+- String iteration
+- Real-world examples using loops
+
+## How to Run
+1. Install Python
+2. Run: python loop_tasks.py
+
+## Outcome
+Understood iteration and automation using Python loops.
